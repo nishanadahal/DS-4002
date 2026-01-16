@@ -1,0 +1,7 @@
+column,type,example,description
+"Year at UVA",text,"3rd Year","Student's current Year at UVA"
+"What is your Gender Identity?",text,"Woman","Man/Woman/Nonbinary"
+"What Schools are you a Part of?",text,"Data Science","Their school at UVA- Data Science, Arts and Sciences, etc"
+"Is a Hotdog a Sandwich?",text,"Yes","Yes or No question"
+"How strongly do you feel about your previous answer?",integer,1,"1(lowest)- 5(highest)"
+"How frequently do you eat hot dogs?",text,"Never","How often they eat hot dogs- Ocasionally, Never, Rarely, frequently"
