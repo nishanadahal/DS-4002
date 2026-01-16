@@ -1,1 +1,2 @@
 # Project 0: Is a hot dog a sandwich?
+We took a survey of a group of UVA students asking them if they thought a hot dog was a sandwich or not. We also got their demographics such as year at UVA, gender identity, the specific school they are a part of, how strongly they felt about their opinion, and how frequently they ate hot dogs. The purpose was to explore whether over 50% of UVA students believed that a hot dog was a sandwich. 
